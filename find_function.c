@@ -5,6 +5,7 @@
  * @opcode: it is the opcode
  * @value: argument of opcode
  * @format:  storage format which is 0 or 1
+ * @ln: ...
  * Return: void
  */
 void find_func(char *opcode, char *value, int ln, int format)
